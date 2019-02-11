@@ -1,0 +1,144 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mohammedasiri/Desktop/New Class/Mobile computing/GPA_Alasiri_Calculator/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/mohammedasiri/Desktop/New Class/Mobile computing/GPA_Alasiri_Calculator/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/mohammedasiri/Desktop/New Class/Mobile computing/GPA_Alasiri_Calculator/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/mohammedasiri/Desktop/New Class/Mobile computing/GPA_Alasiri_Calculator/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/0859963041156446cd900372e2cf9a0c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/372a3eceb005b1a438cd5d9860546a33/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/8701d9c188651928d25d5acc14b787e8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/5df4f0ba6e22a74670a43381430f22d0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/aa5c9aacb97da83842052245b8a3e0bf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/f5d2308857c62c4eb6eac9ec4b4e0238/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/22bbeeb59e1c4c304e644843256b243c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/6995b1103eb60a4d388120ab60945042/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/dfd001297f290d707b52de32ad726387/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/f4b69d448429461329563ca6845679b0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/bc1f6b74381ce43eba2a42e5db3eacdb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/c50300c31dd5e2ba1997f2b0c7ed2244/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/64cd9118f3d00d1677ab26069894c5c2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f547af0303b1323a1a4c90f951a0bdbf/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/fd5e46e5a216a0335d40af284f1fabb9/AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6bad74e2d624ee57375d14a61a203d64/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/f51e630d26007ebc865efa6940bada13/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/0c56a62763ff20b940c40a9a898b510d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/19e3eaf8b4860215ce0065d31b135136/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/80fd8c108a9c3ad4f24c479a8c0ef16b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/ee6769424d3f6a2389d69d78821f6cbb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e04b00919358f90305f1632ec0c2ac7a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/8c3ae6a95b69a7b9f0d964e5267d26c6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/bec2767882c2247eebc04c4f7cb86825/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/51bb52888248d6502fadd70b1a379bba/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/mohammedasiri/Desktop/New Class/Mobile computing/GPA_Alasiri_Calculator/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/mohammedasiri/Desktop/New Class/Mobile computing/GPA_Alasiri_Calculator/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/mohammedasiri/Desktop/New Class/Mobile computing/GPA_Alasiri_Calculator/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/mohammedasiri/Desktop/New Class/Mobile computing/GPA_Alasiri_Calculator/app/src/main/AndroidManifest.xml:3:5-48
+		INJECTED from /Users/mohammedasiri/Desktop/New Class/Mobile computing/GPA_Alasiri_Calculator/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mohammedasiri/Desktop/New Class/Mobile computing/GPA_Alasiri_Calculator/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/mohammedasiri/Desktop/New Class/Mobile computing/GPA_Alasiri_Calculator/app/src/main/AndroidManifest.xml:5:5-31
+		INJECTED from /Users/mohammedasiri/Desktop/New Class/Mobile computing/GPA_Alasiri_Calculator/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mohammedasiri/Desktop/New Class/Mobile computing/GPA_Alasiri_Calculator/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mohammedasiri/Desktop/New Class/Mobile computing/GPA_Alasiri_Calculator/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/mohammedasiri/Desktop/New Class/Mobile computing/GPA_Alasiri_Calculator/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/mohammedasiri/Desktop/New Class/Mobile computing/GPA_Alasiri_Calculator/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mohammedasiri/Desktop/New Class/Mobile computing/GPA_Alasiri_Calculator/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/mohammedasiri/Desktop/New Class/Mobile computing/GPA_Alasiri_Calculator/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/mohammedasiri/Desktop/New Class/Mobile computing/GPA_Alasiri_Calculator/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/mohammedasiri/Desktop/New Class/Mobile computing/GPA_Alasiri_Calculator/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/0859963041156446cd900372e2cf9a0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/0859963041156446cd900372e2cf9a0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/372a3eceb005b1a438cd5d9860546a33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/372a3eceb005b1a438cd5d9860546a33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/8701d9c188651928d25d5acc14b787e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/8701d9c188651928d25d5acc14b787e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/5df4f0ba6e22a74670a43381430f22d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/5df4f0ba6e22a74670a43381430f22d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/aa5c9aacb97da83842052245b8a3e0bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/aa5c9aacb97da83842052245b8a3e0bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/f5d2308857c62c4eb6eac9ec4b4e0238/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/f5d2308857c62c4eb6eac9ec4b4e0238/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/22bbeeb59e1c4c304e644843256b243c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/22bbeeb59e1c4c304e644843256b243c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/6995b1103eb60a4d388120ab60945042/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/6995b1103eb60a4d388120ab60945042/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/dfd001297f290d707b52de32ad726387/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/dfd001297f290d707b52de32ad726387/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/f4b69d448429461329563ca6845679b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/f4b69d448429461329563ca6845679b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/bc1f6b74381ce43eba2a42e5db3eacdb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/bc1f6b74381ce43eba2a42e5db3eacdb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/c50300c31dd5e2ba1997f2b0c7ed2244/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/c50300c31dd5e2ba1997f2b0c7ed2244/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/64cd9118f3d00d1677ab26069894c5c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/64cd9118f3d00d1677ab26069894c5c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f547af0303b1323a1a4c90f951a0bdbf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f547af0303b1323a1a4c90f951a0bdbf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/fd5e46e5a216a0335d40af284f1fabb9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/fd5e46e5a216a0335d40af284f1fabb9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6bad74e2d624ee57375d14a61a203d64/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6bad74e2d624ee57375d14a61a203d64/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/f51e630d26007ebc865efa6940bada13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/f51e630d26007ebc865efa6940bada13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/0c56a62763ff20b940c40a9a898b510d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/0c56a62763ff20b940c40a9a898b510d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/19e3eaf8b4860215ce0065d31b135136/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/19e3eaf8b4860215ce0065d31b135136/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/80fd8c108a9c3ad4f24c479a8c0ef16b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/80fd8c108a9c3ad4f24c479a8c0ef16b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/ee6769424d3f6a2389d69d78821f6cbb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/ee6769424d3f6a2389d69d78821f6cbb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e04b00919358f90305f1632ec0c2ac7a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/e04b00919358f90305f1632ec0c2ac7a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/8c3ae6a95b69a7b9f0d964e5267d26c6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/8c3ae6a95b69a7b9f0d964e5267d26c6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/bec2767882c2247eebc04c4f7cb86825/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/bec2767882c2247eebc04c4f7cb86825/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/51bb52888248d6502fadd70b1a379bba/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/51bb52888248d6502fadd70b1a379bba/AndroidManifest.xml:20:5-44
+INJECTED from /Users/mohammedasiri/Desktop/New Class/Mobile computing/GPA_Alasiri_Calculator/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/mohammedasiri/Desktop/New Class/Mobile computing/GPA_Alasiri_Calculator/app/src/main/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/mohammedasiri/Desktop/New Class/Mobile computing/GPA_Alasiri_Calculator/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/mohammedasiri/Desktop/New Class/Mobile computing/GPA_Alasiri_Calculator/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mohammedasiri/Desktop/New Class/Mobile computing/GPA_Alasiri_Calculator/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/mohammedasiri/Desktop/New Class/Mobile computing/GPA_Alasiri_Calculator/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/mohammedasiri/Desktop/New Class/Mobile computing/GPA_Alasiri_Calculator/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mohammedasiri/Desktop/New Class/Mobile computing/GPA_Alasiri_Calculator/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/mohammedasiri/Desktop/New Class/Mobile computing/GPA_Alasiri_Calculator/app/src/main/AndroidManifest.xml:11:5-25:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f547af0303b1323a1a4c90f951a0bdbf/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f547af0303b1323a1a4c90f951a0bdbf/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/fd5e46e5a216a0335d40af284f1fabb9/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/fd5e46e5a216a0335d40af284f1fabb9/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/mohammedasiri/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f547af0303b1323a1a4c90f951a0bdbf/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/mohammedasiri/Desktop/New Class/Mobile computing/GPA_Alasiri_Calculator/app/src/main/AndroidManifest.xml:14:9-47
+	android:icon
+		ADDED from /Users/mohammedasiri/Desktop/New Class/Mobile computing/GPA_Alasiri_Calculator/app/src/main/AndroidManifest.xml:13:9-48
+	android:allowBackup
+		ADDED from /Users/mohammedasiri/Desktop/New Class/Mobile computing/GPA_Alasiri_Calculator/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/mohammedasiri/Desktop/New Class/Mobile computing/GPA_Alasiri_Calculator/app/src/main/AndroidManifest.xml:15:9-40
+activity#com.triclops.androidgpacalculator.MainActivity
+ADDED from /Users/mohammedasiri/Desktop/New Class/Mobile computing/GPA_Alasiri_Calculator/app/src/main/AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from /Users/mohammedasiri/Desktop/New Class/Mobile computing/GPA_Alasiri_Calculator/app/src/main/AndroidManifest.xml:18:13-51
+	android:name
+		ADDED from /Users/mohammedasiri/Desktop/New Class/Mobile computing/GPA_Alasiri_Calculator/app/src/main/AndroidManifest.xml:17:13-74
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/mohammedasiri/Desktop/New Class/Mobile computing/GPA_Alasiri_Calculator/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/mohammedasiri/Desktop/New Class/Mobile computing/GPA_Alasiri_Calculator/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/mohammedasiri/Desktop/New Class/Mobile computing/GPA_Alasiri_Calculator/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mohammedasiri/Desktop/New Class/Mobile computing/GPA_Alasiri_Calculator/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/mohammedasiri/Desktop/New Class/Mobile computing/GPA_Alasiri_Calculator/app/src/main/AndroidManifest.xml:22:27-74
